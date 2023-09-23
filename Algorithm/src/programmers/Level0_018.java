@@ -1,3 +1,5 @@
+// 아이스 아메리카노
+
 class Solution {
     public int[] solution(int money) {
         int[] answer = new int[2];

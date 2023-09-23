@@ -1,3 +1,5 @@
+// 점의 위치 구하기
+
 class Solution {
     public int solution(int[] dot) {
         int answer = 0;

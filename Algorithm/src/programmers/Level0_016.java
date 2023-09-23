@@ -1,3 +1,5 @@
+// 배열의 평균값
+
 class Solution {
     public double solution(int[] numbers) {
         double answer = 0;

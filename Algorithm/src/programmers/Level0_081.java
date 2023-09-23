@@ -1,3 +1,5 @@
+// 캐릭터의 좌표
+
 class Solution {
     public int[] solution(String[] keyinput, int[] board) {
         int[] answer = new int[2];

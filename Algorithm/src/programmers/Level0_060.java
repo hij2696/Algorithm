@@ -1,3 +1,5 @@
+// 공 던지기
+
 class Solution {
     public int solution(int[] numbers, int k) {
         int answer = 0, idx = 0;

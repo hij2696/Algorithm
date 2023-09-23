@@ -1,3 +1,5 @@
+// 구슬을 나누는 경우의 수
+
 class Solution {
     public int solution(int balls, int share) {
         return combination(balls, share);

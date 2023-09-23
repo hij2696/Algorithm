@@ -1,3 +1,5 @@
+// 가장 큰 수 찾기
+
 class Solution {
     public int[] solution(int[] array) {
         int[] answer = new int[2];

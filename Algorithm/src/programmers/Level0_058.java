@@ -1,3 +1,5 @@
+// 암호 해독
+
 class Solution {
     public String solution(String cipher, int code) {
         String answer = "";

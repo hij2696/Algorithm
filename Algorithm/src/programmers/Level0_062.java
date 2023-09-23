@@ -1,3 +1,5 @@
+// 대문자와 소문자
+
 class Solution {
     public String solution(String my_string) {
         String answer = "";

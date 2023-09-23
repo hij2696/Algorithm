@@ -1,3 +1,5 @@
+// 배열 회전시키기
+
 class Solution {
     public int[] solution(int[] numbers, String direction) {
         int[] answer = new int[numbers.length];

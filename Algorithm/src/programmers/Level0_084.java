@@ -1,3 +1,5 @@
+// 외계어 사전
+
 class Solution {
     public int solution(String[] spell, String[] dic) {
         int answer = 0;

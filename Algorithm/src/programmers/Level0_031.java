@@ -1,3 +1,5 @@
+// 진료 순서 정하기
+
 class Solution {
     public int[] solution(int[] emergency) {
         int[] answer = new int[emergency.length];

@@ -1,3 +1,5 @@
+// 최댓값 만들기 (2)
+
 class Solution {
     public int solution(int[] numbers) {
         int answer = Integer.MIN_VALUE;

@@ -1,3 +1,5 @@
+// 영어가 싫어요
+
 class Solution {
     public long solution(String numbers) {
         StringBuilder sb = new StringBuilder();

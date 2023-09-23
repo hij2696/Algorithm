@@ -1,3 +1,5 @@
+// 짝수 홀수 개수
+
 class Solution {
     public int[] solution(int[] num_list) {
         int[] answer = {0, 0};

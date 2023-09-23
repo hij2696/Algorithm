@@ -1,3 +1,5 @@
+// 두 수의 곱
+
 class Solution {
     public int solution(int num1, int num2) {
         int answer = 0;

@@ -1,3 +1,5 @@
+// 약수 구하기
+
 class Solution {
     public int[] solution(int n) {
         int cnt = 0, i = 1;

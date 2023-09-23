@@ -1,3 +1,5 @@
+// 가까운 수
+
 class Solution {
     public int solution(int[] array, int n) {
         int answer = 0, difference = Integer.MAX_VALUE;

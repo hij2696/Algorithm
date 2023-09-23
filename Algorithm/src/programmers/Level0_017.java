@@ -1,3 +1,5 @@
+// 옷가게 할인 받기
+
 class Solution {
     public int solution(int price) {
         

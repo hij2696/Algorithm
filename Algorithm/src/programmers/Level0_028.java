@@ -1,3 +1,5 @@
+// 짝수의 합
+
 class Solution {
     public int solution(int n) {
         int answer = 0;

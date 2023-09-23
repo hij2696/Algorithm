@@ -1,3 +1,5 @@
+// 직각삼각형 출력하기
+
 import java.util.Scanner;
 
 public class Solution {

@@ -1,3 +1,5 @@
+// 순서쌍의 개수
+
 class Solution {
     public int solution(int n) {
         int answer = 0;

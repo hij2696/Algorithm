@@ -1,3 +1,5 @@
+// 분수의 덧셈
+
 class Solution {
     public int[] solution(int numer1, int denom1, int numer2, int denom2) {
         int numerAns = (numer1 * denom2) + (numer2 * denom1);

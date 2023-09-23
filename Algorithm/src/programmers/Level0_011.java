@@ -1,3 +1,5 @@
+// 최빈값 구하기
+
 class Solution {
     public int solution(int[] array) {
         int answer = 0;

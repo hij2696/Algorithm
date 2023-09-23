@@ -1,3 +1,5 @@
+// 배열 두배 만들기
+
 class Solution {
     public int[] solution(int[] numbers) {
         int[] answer = new int[numbers.length];

@@ -1,3 +1,5 @@
+// 7의 개수
+
 class Solution {
     public int solution(int[] array) {
         int answer = 0;

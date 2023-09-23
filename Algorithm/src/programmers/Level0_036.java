@@ -1,3 +1,5 @@
+// 2차원으로 만들기
+
 class Solution {
     public int[][] solution(int[] num_list, int n) {
         int len1 = num_list.length / n;

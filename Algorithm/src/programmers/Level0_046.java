@@ -1,3 +1,5 @@
+// n의 배수 고르기
+
 class Solution {
     public int[] solution(int n, int[] numlist) {
         int cnt = 0;

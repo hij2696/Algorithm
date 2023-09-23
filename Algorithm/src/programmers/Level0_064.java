@@ -1,3 +1,5 @@
+// 중복된 문자 제거
+
 class Solution {
     public String solution(String my_string) {
         String answer = "";

@@ -1,3 +1,5 @@
+// 중복된 숫자 개수
+
 class Solution {
     public int solution(int[] array, int n) {
         int answer = 0;

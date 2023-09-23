@@ -1,3 +1,5 @@
+// 짝수는 싫어요
+
 import java.util.Arrays;
 
 class Solution {

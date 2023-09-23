@@ -1,3 +1,5 @@
+// 배열 원소의 길이
+
 class Solution {
     public int[] solution(String[] strlist) {
         int[] answer = new int[strlist.length];

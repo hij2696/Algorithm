@@ -1,3 +1,5 @@
+// 한 번만 등장한 문자
+
 class Solution {
     public String solution(String s) {
         String answer = "";

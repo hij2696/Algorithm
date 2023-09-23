@@ -1,3 +1,5 @@
+// 최댓값 만들기 (1)
+
 class Solution {
     public int solution(int[] numbers) {
         int answer = 0;
